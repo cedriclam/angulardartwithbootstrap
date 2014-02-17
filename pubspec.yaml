@@ -1,0 +1,6 @@
+name: angulardartuibootstrap
+description: A sample web application
+dependencies:
+  angular: any
+  angular_dart_ui_bootstrap: any
+  browser: any

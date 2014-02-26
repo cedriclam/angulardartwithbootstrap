@@ -1,0 +1,10 @@
+image: dart
+script:
+ - dart --version
+ - pub get
+ - pub build
+notify:
+ email:
+   recipients:
+     - cedric.lamoriniere@gmail.com
+     

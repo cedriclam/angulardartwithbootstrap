@@ -4,3 +4,9 @@ dependencies:
   angular: any
   angular_dart_ui_bootstrap: any
   browser: any
+transformers:
+- $dart2js:
+    checked: false
+    suppressWarnings: true
+    suppressHints: true
+    terse: true
